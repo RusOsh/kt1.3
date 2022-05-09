@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseClassKotlin</string>
+    <string name="tvSelectImg">Выбор фотографий</string>
+    <string name="selectKey">selected</string>
+    <string name="emptyList">Вы не выбрали объекты</string>
+    <string name="selected_img">Выбранные фотографии</string>
+    <string name="todo">TODO</string>
+</resources>
